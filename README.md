@@ -1,6 +1,6 @@
 # Python_Portfolio
 
-In this porfolio I plan to post small and large data projects as I leanr and progress with my skills using Python! I began a passion for Python late last year and I have completed a few projects but the LAPD project was my first analytical project that I have completed by myself using my own ideas and code.
+In this porfolio I plan to post small and large data projects as I learn and progress with my skills using Python! I began a passion for Python late last year and I have completed a few projects but the LAPD project was my first analytical project that I have completed by myself using my own ideas and code.
 
 ## LAPD Project
 
